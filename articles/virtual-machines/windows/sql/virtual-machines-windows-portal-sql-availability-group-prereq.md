@@ -301,7 +301,7 @@ After the primary domain controller reboots, you can configure the second domain
 
 After the server finishes the configuration changes, restart the server.
 
-### Add the Private IP Address to the second domain controller to the VPN DNS Server
+### Add the Private IP Address to the second domain controller to the VNET DNS Server
 
 In the Azure portal, under virtual network, change the DNS Server to include the IP address of the secondary domain controller. This setting allows the DNS service redundancy.
 
