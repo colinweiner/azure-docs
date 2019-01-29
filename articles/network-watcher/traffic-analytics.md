@@ -83,6 +83,8 @@ The Log Analytics workspace must exist in the following regions:
 * Central India
 * Japan East
 
+If you select a Log Analytics workspace that is not in the specified support regions you will get an Internal Server" error.
+
 ## Prerequisites
 
 ### User access requirements
